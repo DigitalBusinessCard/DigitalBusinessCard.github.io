@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Awesome Digital Business Card
 
 ![Digital Business Card](https://github.com/DigitalBusinessCard/DigitalBusinessCard.github.io/blob/main/digitalCard.png?raw=true)
 You can use the [editor on GitHub](https://github.com/DigitalBusinessCard/DigitalBusinessCard.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
