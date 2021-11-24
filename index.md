@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
-[![Header](https://raw.githubusercontent.com/DigitalBusinessCard/DigitalBusinessCard.github.io/digitalCard.png "Header")](https://awesomepythonlibraries.blogspot.com/)
-
+![Digital Business Card](https://github.com/DigitalBusinessCard/DigitalBusinessCard.github.io/blob/main/digitalCard.png?raw=true)
 You can use the [editor on GitHub](https://github.com/DigitalBusinessCard/DigitalBusinessCard.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
