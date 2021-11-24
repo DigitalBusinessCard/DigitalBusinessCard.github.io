@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[![Header](https://raw.githubusercontent.com/DigitalBusinessCard/DigitalBusinessCard/digitalCard.png "Header")](https://awesomepythonlibraries.blogspot.com/)
+[![Header](https://raw.githubusercontent.com/DigitalBusinessCard/DigitalBusinessCard.github.io/digitalCard.png "Header")](https://awesomepythonlibraries.blogspot.com/)
 
 You can use the [editor on GitHub](https://github.com/DigitalBusinessCard/DigitalBusinessCard.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
